@@ -1,2 +1,2 @@
 # DS-ML
-This repository contains multiple projects covering important concepts related to ds and ml, also the basics of python
+This repository contains multiple projects covering important concepts related to Data Science and Machine learning.
